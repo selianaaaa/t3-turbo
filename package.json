@@ -18,7 +18,7 @@
     "@manypkg/cli": "^0.19.2",
     "@trivago/prettier-plugin-sort-imports": "^4.0.0",
     "@vitejs/plugin-react": "^2.2.0",
-    "@vue/compiler-sfc": "^3.2.26",
+    "@vue/compiler-sfc": "^3.3.4",
     "jsdom": "^20.0.3",
     "prettier": "^2.7.1",
     "prettier-plugin-tailwindcss": "^0.2.1",
