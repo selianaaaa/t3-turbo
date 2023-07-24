@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@manypkg/cli": "^0.19.2",
-    "@trivago/prettier-plugin-sort-imports": "^4.0.0",
+    "@trivago/prettier-plugin-sort-imports": "^4.2.0",
     "@vitejs/plugin-react": "^2.2.0",
     "@vue/compiler-sfc": "^3.2.26",
     "jsdom": "^20.0.3",
